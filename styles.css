@@ -3,7 +3,7 @@
 .holder{
 	display:flex;
 	justify-content:space-between;
-	flex-direction:row-reverse;
+	flex-wrap:wrap;
 	
 }
 #box-1{
